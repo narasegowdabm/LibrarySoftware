@@ -1,4 +1,4 @@
-# ![image](https://github.com/Sagarshivalingappaathani/LibrarySoftware/assets/121311033/dcc06a76-979b-485c-bc8e-db308851f6ae)Library Management System
+# Library Management System
 
 This is a Java-based Library Management System application designed to help manage books and user records in a library. It allows administrators and users to perform various tasks such as viewing available books, searching for books, borrowing books, returning books, and more.
 - [See the demo video of user interface →](https://www.youtube.com/watch?v=EUeQX5Y4O4A)
